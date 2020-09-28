@@ -1,0 +1,13 @@
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.exe
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.deps.json
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.runtimeconfig.json
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.runtimeconfig.dev.json
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.dll
+D:\baitap\SuDungLinqArrayList\bin\Debug\netcoreapp3.1\SuDungLinqArrayList.pdb
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.csprojAssemblyReference.cache
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.AssemblyInfoInputs.cache
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.AssemblyInfo.cs
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.csproj.CoreCompileInputs.cache
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.dll
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.pdb
+D:\baitap\SuDungLinqArrayList\obj\Debug\netcoreapp3.1\SuDungLinqArrayList.genruntimeconfig.cache
